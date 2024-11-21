@@ -1,0 +1,7 @@
+{
+  "name": "issue-44515",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
